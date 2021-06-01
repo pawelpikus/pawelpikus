@@ -1,5 +1,4 @@
-### Hi there 👋
-![GitHub Logo](hello-card.png)
+![Hello banner](hello-card.png)
 
 <!--
 **pawelpikus/pawelpikus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
