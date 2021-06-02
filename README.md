@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a tribute webpage for a band I used to play with!
 - 🌱 I’m currently learning REACT.
 - 🥅 2021 Goals: Contribute to Open Source projects and Learn a lot.
-- ⚡ Fun fact: I was a teacher of English as a second language for almost 15 years!
+- ⚡ Fun fact: I have been a teacher of English as a second language for almost 15 years!
 
 ---
 
