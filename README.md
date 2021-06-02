@@ -1,4 +1,4 @@
-![Hello banner](hello-card.png)
+![Hello banner](hello-card2.png)
 
 ### I'm an Engineer, a Frontend Developer and Life Long Learner!
 - 🔭 I’m currently working on a tribute webpage for a band I used to play with!
