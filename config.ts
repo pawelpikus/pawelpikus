@@ -47,7 +47,7 @@ export const CONFIG = {
       background: 'ffffff',
     },
     stats: {
-      mostUsedLanguages: true,
+      mostUsedLanguages: false,
       overallStats: true,
     },
     highlightedRepos: ['pawelpikus'],
