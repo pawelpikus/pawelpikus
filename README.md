@@ -13,5 +13,9 @@
 <p><a href="https://github.com/pawelpikus" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Github-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a><a href="https://twitter.com/pavelpikus" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a><a href="https://www.linkedin.com/in/pawel-pikus-5a61b819/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a><a href="#" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-%234285F4.svg?&style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p><br/>
 <hr/>
+<<<<<<< HEAD
 <p align="center">This README file is automatically generated every day! The last refresh was on Thursday, 3 June, 22:36 CEST.<br/> </p>
+=======
+<p align="center">This README file is automatically generated every day! The last refresh was on Thursday, 3 June, 22:33 CEST.<br/> </p>
+>>>>>>> 1ee4cd2d307e4d169a8f93a1e166b3657376be8d
 <p align="center"><img src="https://github.com/pawelpikus/pawelpikus/workflows/README%20build/badge.svg"/> <img alt="Stars" src="https://img.shields.io/github/stars/pawelpikus/pawelpikus?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/pawelpikus/pawelpikus?style=flat-square&labelColor=343b41"/> <img src="https://gpvc.arturio.dev/pawelpikus" alt="Profile views"/></p>
