@@ -1,25 +1,25 @@
 export const CONFIG = {
   social: [
-    {
-      name: 'Medium',
-      color: '12100E',
-      url: 'https://medium.com/@arjenbrandenburgh',
-    },
+    // {
+    //   name: 'Medium',
+    //   color: '12100E',
+    //   url: 'https://medium.com/@arjenbrandenburgh',
+    // },
     {
       name: 'Github',
       username: 'arjenbrandenburgh',
       color: '12100E',
-      url: 'https://github.com/arjenbrandenburgh',
+      url: 'https://github.com/pawelpikus',
     },
     {
       name: 'Twitter',
       color: '1DA1F2',
-      url: 'https://twitter.com/ArjenBrand',
+      url: 'https://twitter.com/pavelpikus',
     },
     {
       name: 'LinkedIn',
       color: '0077B5',
-      url: 'https://www.linkedin.com/in/arjen-brandenburgh',
+      url: 'https://www.linkedin.com/in/pawel-pikus-5a61b819/',
     },
     {
       name: 'Website',
@@ -39,7 +39,7 @@ export const CONFIG = {
     // },
   ],
   github: {
-    username: 'arjenbrandenburgh',
+    username: 'pawelpikus',
     colors: {
       title: '24292e',
       text: '24292e',
@@ -50,7 +50,7 @@ export const CONFIG = {
       mostUsedLanguages: true,
       overallStats: true,
     },
-    highlightedRepos: ['arjenbrandenburgh'],
+    highlightedRepos: ['pawelpikus'],
   },
   instagram: {
     enabled: false,
@@ -58,90 +58,73 @@ export const CONFIG = {
     numberOfImages: 3,
   },
   mediumArticles: {
-    enabled: true,
-    username: 'arjenbrandenburgh',
+    enabled: false,
+    username: 'pawelpikus',
     numberOfArticles: 10,
   },
   badges: {
     enabled: true,
     spectrum: ['46a2f1', '311C87', 'DD0031', '43853d'],
     list: [
+      // {
+      //   name: 'Angular',
+      // },
+      // {
+      //   name: 'Vue',
+      //   logo: 'vue.js',
+      // },
+      // {
+      //   name: 'Polymer',
+      //   logo: 'polymer-project',
+      // },
+      // {
+      //   name: 'Webpack',
+      // },
+      // {
+      //   name: 'Docker',
+      // },
+      // {
+      //   name: 'Typescript',
+      // },
       {
-        name: 'Angular',
+        name: 'HTML5',
       },
       {
-        name: 'Vue',
-        logo: 'vue.js',
-      },
-      {
-        name: 'Polymer',
-        logo: 'polymer-project',
-      },
-      {
-        name: 'Webpack',
-      },
-      {
-        name: 'Docker',
-      },
-      {
-        name: 'Typescript',
+        name: 'CSS3',
       },
       {
         name: 'Javascript',
       },
+
       {
-        name: 'Redux',
+        name: 'React',
       },
       {
-        name: 'Sass',
+        name: 'Bootstrap',
       },
+          
       {
         name: 'Git',
       },
-      {
-        name: 'AWS',
-        logo: 'amazon-aws',
-      },
+      
       {
         name: 'Python',
       },
-      {
-        name: 'Ruby on Rails',
-        logo: 'ruby-on-rails',
-      },
+      
       {
         name: 'Github',
       },
       {
         name: 'npm',
       },
-      {
-        name: 'HTML5',
-      },
-      {
-        name: 'Bootstrap',
-      },
+          
       {
         name: 'Jest',
       },
       {
-        name: 'Cypress',
-      },
-      {
-        name: 'Jasmine',
-      },
-      {
-        name: 'Mocha',
-      },
-      {
         name: 'MongoDB',
       },
-      {
-        name: 'PostgreSQL',
-      },
-      {
-        name: 'MySQL',
-      },
+      
       {
         name: 'Prettier',
       },
