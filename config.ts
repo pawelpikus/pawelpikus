@@ -102,15 +102,17 @@ export const CONFIG = {
       {
         name: 'Bootstrap',
       },
-          
       {
-        name: 'Git',
-      },
+        name: 'NodeJS',
+        logo: 'Node.js',
+      },    
       
       {
         name: 'Python',
       },
-      
+      {
+        name: 'Git',
+      },
       {
         name: 'Github',
       },
@@ -128,10 +130,7 @@ export const CONFIG = {
       {
         name: 'Prettier',
       },
-      {
-        name: 'NodeJS',
-        logo: 'Node.js',
-      },
+      
     ],
   },
 };
