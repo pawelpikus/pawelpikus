@@ -50,7 +50,7 @@ export const CONFIG = {
       mostUsedLanguages: false,
       overallStats: true,
     },
-    highlightedRepos: ['pawelpikus'],
+    highlightedRepos: ['chat-app-illustration'],
   },
   instagram: {
     enabled: false,
