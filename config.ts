@@ -7,7 +7,7 @@ export const CONFIG = {
     // },
     {
       name: 'Github',
-      username: 'arjenbrandenburgh',
+      username: 'pawelpikus',
       color: '12100E',
       url: 'https://github.com/pawelpikus',
     },
@@ -25,7 +25,7 @@ export const CONFIG = {
       name: 'Website',
       color: '4285F4',
       logo: 'google-chrome',
-      url: 'https://www.arjenbrandenburgh.nl',
+      url: '#',
     },
     // {
     //   name: 'Instagram',
