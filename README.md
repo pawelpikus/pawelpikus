@@ -1,8 +1,7 @@
 
 <h1>👋 Oh, hi there!</h1><img src="./hello-card3.png" alt="hello card"/>
-<p>Welcome to my GitHub profile! <br/>I am Paweł,  <b>Frontend Developer</b> living in Zamość, POLAND.</p>
+<p>Welcome to my GitHub profile! <br/>I am Paweł,  <b>Frontend Developer</b>living in Zamość, POLAND.</p>
 <p>I love everything tech, and am specialized in React. 
-<br/>
   I play 🎸 the guitar in a country/bluegrass amateur band, love to play basketball!  
 </p>
 <hr/>
@@ -14,5 +13,5 @@
 <p><a href="https://github.com/pawelpikus" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Github-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a><a href="https://twitter.com/pavelpikus" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a><a href="https://www.linkedin.com/in/pawel-pikus-5a61b819/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a><a href="#" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-%234285F4.svg?&style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p><br/>
 <hr/>
-<p align="center">This README file is automatically generated every day! The last refresh was on Thursday, 3 June, 18:16 CEST.<br/>Do you want an awesome GitHub README as well? Read about it in <a href="https://medium.com/@arjenbrandenburgh/you-should-stand-out-on-github-with-a-readme-profile-467e047b6c18" target="_blank">this article</a>.</p>
-<p align="center"><img src="https://github.com/pawelpikus/pawelpikus/workflows/README%20build/badge.svg"/> <img alt="Stars" src="https://img.shields.io/github/stars/arjenbrandenburgh/arjenbrandenburgh?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/arjenbrandenburgh/arjenbrandenburgh?style=flat-square&labelColor=343b41"/> <img src="https://gpvc.arturio.dev/pawelpikus" alt="Profile views"/></p>
+<p align="center">This README file is automatically generated every day! The last refresh was on Thursday, 3 June, 22:16 CEST.<br/> </p>
+<p align="center"><img src="https://github.com/pawelpikus/pawelpikus/workflows/README%20build/badge.svg"/> <img alt="Stars" src="https://img.shields.io/github/stars/pawelpikus/pawelpikus?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/pawelpikus/pawelpikus?style=flat-square&labelColor=343b41"/> <img src="https://gpvc.arturio.dev/pawelpikus" alt="Profile views"/></p>
