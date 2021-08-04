@@ -1,7 +1,7 @@
 
 <h1>👋 Oh, hi there!</h1><img src="./hello-card3.png" alt="hello card"/>
 <p>Welcome to my GitHub profile! <br/>I am Paweł,  <b>Frontend Developer </b>living in Zamość, POLAND.</p>
-<p>I love everything tech, and am specialized in React. 
+<p>I love everything tech, and am currently learning React. 
   I play 🎸 the guitar in a country/bluegrass amateur band, love to play basketball!  
 </p>
 <hr/>
