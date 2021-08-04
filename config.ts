@@ -50,7 +50,7 @@ export const CONFIG = {
       mostUsedLanguages: false,
       overallStats: true,
     },
-    highlightedRepos: ['chat-app-illustration'],
+    highlightedRepos: ['game-of-war'],
   },
   instagram: {
     enabled: false,
