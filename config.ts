@@ -85,7 +85,7 @@ export const CONFIG = {
       // },
       {
         name: 'React',
-        logo: 'React.js'
+        logo: ''
       },
       {
         name: 'Typescript',
