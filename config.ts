@@ -83,32 +83,34 @@ export const CONFIG = {
       // {
       //   name: 'Docker',
       // },
-      // {
-      //   name: 'Typescript',
-      // },
+      {
+        name: 'React',
+      },
+      {
+        name: 'Typescript',
+      },
+      {
+        name: 'Javascript',
+      },
       {
         name: 'HTML5',
       },
       {
         name: 'CSS3',
       },
-      {
-        name: 'Javascript',
-      },
-
-      {
-        name: 'React',
-      },
-      {
-        name: 'Bootstrap',
-      },
-      {
-        name: 'NodeJS',
-        logo: 'Node.js',
-      },    
+      // {
+      //   name: 'Bootstrap',
+      // },
+      // {
+      //   name: 'NodeJS',
+      //   logo: 'Node.js',
+      // },    
       
       {
         name: 'Python',
+      },
+      {
+        name: 'REST API',
       },
       {
         name: 'Git',
@@ -124,9 +126,12 @@ export const CONFIG = {
         name: 'Jest',
       },
       {
-        name: 'MongoDB',
+        name: 'Netlify',
       },
       
+      {
+        name: 'ESLint',
+      },
       {
         name: 'Prettier',
       },
