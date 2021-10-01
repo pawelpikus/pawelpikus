@@ -50,7 +50,7 @@ export const CONFIG = {
       mostUsedLanguages: false,
       overallStats: true,
     },
-    highlightedRepos: ['game-of-war'],
+    highlightedRepos: ['ip-address-tracker','my-bookshelf', 'firstsight-dashboard-app'],
   },
   instagram: {
     enabled: false,
