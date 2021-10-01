@@ -50,7 +50,8 @@ export const CONFIG = {
       mostUsedLanguages: false,
       overallStats: true,
     },
-    highlightedRepos: ['ip-address-tracker','my-bookshelf', 'firstsight-dashboard-app'],
+    highlightedRepos: ['ip-address-tracker','my-bookshelf', 'firstsight-dashboard-app', 
+    'social-media-dashboard-with-theme-switcher'],
   },
   instagram: {
     enabled: false,
