@@ -1,7 +1,7 @@
 
 <h1>👋 Oh, hi there!</h1><img src="./hello-card3.png" alt="hello card"/>
 <p>Welcome to my GitHub profile! <br/>I am Paweł,  <b>Software Development Engineer in Test (SDET) </b>living in Zamość, POLAND.</p>
-<p>I love everything tech, and am specialized in React + Typescript, Python with Pytest, Playwright and Cypress. 
+<p>I love everything tech, and am specialized in Python with Pytest, Javascript (React, Typescript), Playwright and Cypress. 
   I play 🎸 the guitar in a country/bluegrass amateur band, love to play basketball!  
 </p>
 <hr/>
